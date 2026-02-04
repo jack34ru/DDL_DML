@@ -48,3 +48,6 @@ customer         | customer_id
 ### Решение 2
 
 [Таблица_c_решением_задания_2](https://github.com/jack34ru/DDL_DML/blob/main/Решение_задания_2.xlsx)  
+
+Скриншот 1 к заданию 2 
+![Screen 1](https://github.com/jack34ru/DDL_DML/blob/main/screenshots/Screenshot_162.png)
