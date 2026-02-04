@@ -47,4 +47,4 @@ customer         | customer_id
 ```
 ### Решение 2
 
-[Таблица_c_решением_задания_2](https://github.com/jack34ru/DDL_DML/blob/main/Решение задания 2.xlsx)  
+[Таблица_c_решением_задания_2](https://github.com/jack34ru/DDL_DML/blob/main/Решение_задания_2.xlsx)  
